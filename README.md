@@ -1,7 +1,7 @@
 # gstaff 2023 HackAPrompt Solutions
 My solutions to the [2023 HackAPrompt competition](https://www.aicrowd.com/challenges/hackaprompt-2023).
 
-I finished as the top individual in the main category out of 2,742 competitors and 6th overall s([user gstaff](https://www.aicrowd.com/challenges/hackaprompt-2023/leaderboards)). Also 7th overall in the flan-only category.
+I finished as the top individual in the main category out of 2,742 competitors and 6th overall ([user gstaff](https://www.aicrowd.com/challenges/hackaprompt-2023/leaderboards)). Also 7th overall in the flan-only category.
 
 ![Final Leaderboard](./FinalLeaderboard.png)
 
